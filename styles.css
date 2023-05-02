@@ -87,6 +87,7 @@ body {
 }
 
 #links a {
+	display: flex;
 	color: var(--faded-foreground);
 	transition-property: color;
 	transition-duration: 0.2s;
