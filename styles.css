@@ -79,6 +79,10 @@ body {
 	line-height: 1.2em;
 }
 
+#bio span {
+	display: block;
+}
+
 #links {
 	display: flex;
 	justify-content: center;
